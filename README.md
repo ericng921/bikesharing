@@ -12,6 +12,8 @@ We created five charts for the analysis: line Chart of Checkout Times for Users,
 
 Having the visualization, it provides better understanding of the relationship between the variables and the details of the data so we can pitch the report to investors
 
+The original and new csv files are not able to be uploaded since the file exceed the limited of 100MB in github.
+
 ## Result
 
 
