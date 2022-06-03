@@ -4,7 +4,7 @@
 
 This is my link to my Tableau story. [[Link]](https://public.tableau.com/app/profile/eric.cheuk.him.ng/viz/Module_14_challenge_16541184852790/Storyforanalysis)
 
-We want to convince investors that a bike-sharing program in New York City is a solid business proposal. We did some analysis on the bike trip for August 2019.
+The purpose of the project is that We want to convince investors that a bike-sharing program in New York City is a solid business proposal. We performed some analysis on the bike trip for August 2019.
 
 First of all We converted the trip duration to datetime format from Integer, and created a new csv file through Jupyter notebook for further analysis in Tableau.
 
