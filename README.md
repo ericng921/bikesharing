@@ -14,7 +14,8 @@ Having the visualization, it provides better understanding of the relationship b
 
 ## Result
 
-![checkout_user](https://user-images.githubusercontent.com/100378319/171763221-0f2d9bca-5096-4360-b468-dde828f4fa7d.png)
+
+![checkout_user](https://user-images.githubusercontent.com/100378319/171764548-3a728864-574c-4d42-9fe8-ba569def6cf0.png)
 
 1. The picture above is the checkout times for user. We can tell from the chart averagely the trip duration for most of the user is about 5 minutes.
 
