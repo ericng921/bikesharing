@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-This is my link to my Tableau story. [Link](https://public.tableau.com/app/profile/eric.cheuk.him.ng/viz/Module_14_challenge_16541184852790/Storyforanalysis)
+This is my link to my Tableau story. [[Link]](https://public.tableau.com/app/profile/eric.cheuk.him.ng/viz/Module_14_challenge_16541184852790/Storyforanalysis)
 
 We want to convince investors that a bike-sharing program in New York City is a solid business proposal. We did some analysis on the bike trip for August 2019.
 
@@ -14,38 +14,45 @@ Having the visualization, it provides better understanding of the relationship b
 
 ## Result
 
+![checkout_user](https://user-images.githubusercontent.com/100378319/171763221-0f2d9bca-5096-4360-b468-dde828f4fa7d.png)
 
 1. The picture above is the checkout times for user. We can tell from the chart averagely the trip duration for most of the user is about 5 minutes.
+
+
+![checkout_gender](https://user-images.githubusercontent.com/100378319/171763231-7fcff93f-5553-49be-8097-3eea57b8596f.png)
 
 2. This is the checkout time by gender. Although the counts of male are much higher than Female user, their checkout time are basically the same which is about 5 minutes.
 
 
+![trsps_weekday](https://user-images.githubusercontent.com/100378319/171763243-fd714344-5088-45a6-857b-4bdeca5fe4e5.png)
+
 3. This is a heat map showing count of trips based on day and hour. We can tell most of the usage are on the weekday 8am to 9am and 5pm to 6pm as expected because this is the rush hour.
 
 
+![trip_gender](https://user-images.githubusercontent.com/100378319/171763252-1780767a-84cb-4bb7-9ef7-b5157d6daa82.png)
+
 4. This is a similar heat map as previous chart, but it is filtered by gender. We can see most of the user are male and the busiest time is similar to previous chart which are 8am and 5pm.
+
+
+![trip_gender_weekday](https://user-images.githubusercontent.com/100378319/171763267-a5086f1d-f29b-4008-96bd-89a475be4bc2.png)
 
 5. This is a heat map chart showing relationship between user type and gender based on weekday. We can see the male subscriber are the main user type.
 
 
+![gender](https://user-images.githubusercontent.com/100378319/171763285-80e21107-01ae-4f1e-86f4-f482f500280d.png)
+
 6. This is the trips counter by gender. We can see male is the main gender of users which is 1.53m versus Female user 588k 
 
 
-
-
+![trips_age](https://user-images.githubusercontent.com/100378319/171763292-d56c39ce-ff38-48a0-8548-895d77596964.png)
 
 7. This is a line chart showing the age factor to the report. We can see most of the user's age is from 1969 which is 237k and 1988 to 1992. Therefore, we know that the age group is tend to younger generation, so that we can have different marketing strategy approach
 
 
+
+![start_map](https://user-images.githubusercontent.com/100378319/171763308-eeebfb13-e034-4b61-90d3-23176c732237.png)
+
 8. This is the start time station map with the bubble showing the number of users. The Circle in blue is the busiest location so we can tell which station needs more inventory, repairs and maintenance.
-
-
-
-
-
-
-
-
 
 
 ## Summary 
