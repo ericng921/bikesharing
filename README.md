@@ -2,7 +2,7 @@
 
 ## Overview of the analysis
 
-This is my link to my Tableau story. [[Link]](https://public.tableau.com/app/profile/eric.cheuk.him.ng/viz/Module_14_challenge_16541184852790/Storyforanalysis)
+This is the link for my Tableau story. [[Link]](https://public.tableau.com/app/profile/eric.cheuk.him.ng/viz/Module_14_challenge_16541184852790/Storyforanalysis)
 
 The purpose of the project is that We want to convince investors that a bike-sharing program in New York City is a solid business proposal. We performed some analysis on the bike trip for August 2019.
 
