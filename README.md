@@ -70,7 +70,9 @@ There are a lot of other transportation options for people to choose such as sub
 
 There are about couple hundred of users between age of 1885 to 1934 which are older than 85 years old in the year of 2019. That maybe happened because some of the user did not enter the correct information by mistake or in purpose.
 
-3. Start station location and End station location based on hour. We will find out additional information about the relationship between time period vs location.
+3. Start station location and End station location based on hour.
+  
+We will obtain additional information about the relationship between the time period vs location so we know what the peak time of the day is for each location. Company can deploy more recources for these locations.
 
 
 
